@@ -25,7 +25,7 @@ Introducción al Marketing Online y los Negocios Digitales — Trabajo Práctico
 
 6) Cómo ejecutar el proyecto
 
-
+7) Dashboard
 
 1) Objetivos
 
@@ -271,3 +271,4 @@ Si todo sale bien, la carpeta dw/ contendrá todos los CSVs finales, listos para
 
 
 
+7) Link al Dashboard: https://lookerstudio.google.com/u/0/reporting/b846d458-14a2-494c-9399-eed775211ffb/page/DZTfF/edit
